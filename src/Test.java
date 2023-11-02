@@ -2,6 +2,7 @@ import java.util.LinkedList;
 
 public class Test {
     public static void coba(){
+
         int nilai = 100;
         System.out.println(nilai);
 
